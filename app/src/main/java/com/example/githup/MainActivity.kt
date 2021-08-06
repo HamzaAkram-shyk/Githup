@@ -12,10 +12,7 @@ class MainActivity : AppCompatActivity() {
         println("Helllo there")
         Log.d("","")
 
-
-
-
-
+        println("My New Commit")
 
     }
 
