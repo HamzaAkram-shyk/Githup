@@ -13,6 +13,7 @@ class MainActivity : AppCompatActivity() {
         Log.d("","")
 
         println("My New Commit")
+        println("Add new Feature")
 
     }
 
