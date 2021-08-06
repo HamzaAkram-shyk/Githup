@@ -10,7 +10,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
         println("This is remote base")
         println("Helllo there")
-        we are fucked
+        Log.d("","")
+
+        println("My New Commit")
 
     }
 
