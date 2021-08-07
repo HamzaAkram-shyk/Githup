@@ -22,7 +22,7 @@ class MainActivity : AppCompatActivity() {
 
             }
             is Response.Loading -> {
-
+                Toast.makeText(this, "Hello there ", Toast.LENGTH_SHORT).show()
             }
             is Response.Error -> {
 
