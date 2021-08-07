@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
             }
             is Response.Error -> {
-
+                Toast.makeText(this, "Error", Toast.LENGTH_SHORT).show()
             }
         }
         println("My New Commit")
